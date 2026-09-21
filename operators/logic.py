@@ -1,0 +1,7 @@
+#5. Demonstrate logical operators (and, or, not).
+a = True
+b = False
+
+print("AND =", a and b)
+print("OR =", a or b)
+print("NOT =", not a)
