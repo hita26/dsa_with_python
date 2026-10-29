@@ -1,0 +1,30 @@
+1.	Write a function to print "Hello, World!".
+2.	Write a function that takes a name and prints a greeting.
+3.	Write a function to add two numbers.
+4.	Write a function to find the square of a number.
+5.	Write a function to check whether a number is even or odd.
+6.	Write a function to find the maximum of two numbers.
+7.	Write a function to convert Celsius to Fahrenheit.
+8.	Write a function to calculate the area of a circle.
+9.	Write a function to calculate the factorial of a number.
+10.	Write a function to check whether a number is positive, negative, or zero.
+11.	Write a function to find the maximum of three numbers.
+12.	Write a function to count vowels in a string.
+13.	Write a function to reverse a string.
+14.	Write a function to check whether a string is a palindrome.
+15.	Write a function to find the sum of all elements in a list.
+16.	Write a function to find the largest element in a list.
+17.	Write a function to remove duplicate elements from a list.
+18.	Write a function to count how many times an element appears in a list.
+19.	Write a function to check whether a number is prime.
+20.	Write a function to return all prime numbers between two numbers.
+21.	Write a function to calculate Fibonacci numbers.
+22.	Write a function to find the second-largest number in a list.
+23.	Write a function to sort a list without using sort().
+24.	Write a function to merge two lists and remove duplicates.
+25.	Write a function that accepts any number of arguments using *args.
+26.	Write a function that accepts keyword arguments using **kwargs.
+27.	Write a recursive function to calculate factorial.
+28.	Write a recursive function to calculate the sum of numbers from 1 to n.
+29.	Write a function to find the frequency of each word in a sentence.
+30.	Write a function to determine whether two strings are anagrams.
